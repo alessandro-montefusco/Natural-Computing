@@ -1,0 +1,6 @@
+2020-05-07 16:04:38,903 - pyswarms.single.local_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 2}
+2020-05-07 16:04:39,773 - pyswarms.single.local_best - INFO - Optimization finished | best cost: 0.0, best pos: [-4.15724476e-10 -2.31923048e-09]
+2020-05-07 16:04:49,265 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+2020-05-07 16:04:49,266 - matplotlib.animation - INFO - MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x800 -pix_fmt rgba -r 12.5 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y 'C:\Users\Alex\AppData\Local\Temp\tmp8is0x0ju\temp.m4v'
+2020-05-07 16:06:10,752 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+2020-05-07 16:06:10,754 - matplotlib.animation - INFO - MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x800 -pix_fmt rgba -r 12.5 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y dynamic_images.mp4
